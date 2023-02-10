@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ESP32_detPres_rele_MultiTask"
+		}
+	]
+}
